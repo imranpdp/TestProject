@@ -15,6 +15,7 @@ public class Fun {
 		System.out.println("Hi how are");
 		System.out.println("it worked for me as well");
 		System.out.println("This is working man Great keep that up");
+		System.out.println("I am going to add a new price");
 	}
 
 }
